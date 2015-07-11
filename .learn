@@ -1,11 +1,13 @@
 languages:
-  - HTML
-  - CSS
+  - Python
 tags:
-  - cssi, html, css
-  - html
-  - css
-  - git
-  - command line
+  - cssi, python
+  - variables
+  - math operators
+  - conditional statements
+  - lists
+  - loops
+  - functions
+  - dictionaries
 type:
   - reference notes

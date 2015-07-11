@@ -15,7 +15,7 @@ We've seen how to use strings to print words to the command line - just like we 
 #Dictionaries
 When you open up a dictionary, what do you see? Words and their definitions. Dictionaries function are like that - they contain pairs of keys, which are usually words, and values. Dictionaries are like lists, but instead of having numbers as indexes, the indexes are something else - usually strings. Check it out:
 
-<img src="images/dictionary.png">
+<img src="https://github.com/learn-co-curriculum/cssi-4.10-python-dictionaries/blob/master/images/dictionary.png">
 
 In this example, we can associate each of the items on our grocery list with its price. We don't really care about the order of the grocery list - it is way more helpful to know how much each item will cost!
 

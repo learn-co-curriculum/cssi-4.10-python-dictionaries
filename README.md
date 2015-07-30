@@ -1,8 +1,4 @@
----
-tags: cssi, python, string methods
-level: 2
-languages: python
----
+
 #Python Dictionaries
 
 #Objectives:

@@ -154,4 +154,4 @@ mouse
 #In Conclusion
 Remember dictionaries are just like lists but rather than having and index (0,1,2,3) you have keys for each value!
 
-<a href='https://learn.co/lessons/cssi-4.10-python-dictionaries' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.10-python-dictionaries' title='Python Dictionaries'>Python Dictionaries</a> on Learn.co and start learning to code for free.</p>
